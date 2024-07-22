@@ -160,5 +160,33 @@ body {
   tfoot td {
     font-weight: bold;
   }
+
+  .main-footer{
+    text-align: center;
+    padding: 1.25rem;
+    font-size: larger;
+  }
+
+  .footer-archive{
+    padding: 1.25rem;
+  }
+
+
+  .archive{
+    text-align: center;
+  }
+
+  .archive-article{
+    text-align: left;
+    text-decoration: underline;
+    
+   
+  }
+
+  .archive-list{
+    display: inline-block;
+    padding: 1rem;
+  }
+
   
   
